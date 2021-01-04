@@ -3,7 +3,7 @@ Full stack app using Clarifai face recognition API built using HTML, Javascript 
 
 How to use:
 
-- Open the website
+- Open the website: as-face-recognition.herokuapp.com/
 
 - Register a user using dummy credentials following a valid email format. (X@X.com)
 
